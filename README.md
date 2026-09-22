@@ -217,4 +217,4 @@ Yandex.Disk is available as a **full free version** with all features and update
 Unlock the power of secure cloud storage today! **Download Yandex.Disk for free and access your files anytime, anywhere!**
 
 ---
-**Last updated:** 2026-09-22 05:39:42 UTC
+**Last updated:** 2026-09-22 10:39:19 UTC
